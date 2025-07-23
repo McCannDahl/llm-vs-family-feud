@@ -1,0 +1,166 @@
+Question,Answer 1,Answer 1 human likelihood,Answer 2,Answer 2 human likelihood,Answer 3,Answer 3 human likelihood,Answer 4,Answer 4 human likelihood,Answer 5,Answer 5 human likelihood,Answer 6,Answer 6 human likelihood,Answer 7,Answer 7 human likelihood,Answer 8,Answer 8 human likelihood,Answer 9,Answer 9 human likelihood,Answer 1 llama3.2 likelihood,Answer 2 llama3.2 likelihood,Answer 3 llama3.2 likelihood,Answer 4 llama3.2 likelihood,Answer 5 llama3.2 likelihood,Answer 6 llama3.2 likelihood,Answer 7 llama3.2 likelihood,Answer 8 llama3.2 likelihood,Answer 9 llama3.2 likelihood,none llama3.2 likelihood,error llama3.2 likelihood,Answer 1 gemma3:4b-it-qat likelihood,Answer 2 gemma3:4b-it-qat likelihood,Answer 3 gemma3:4b-it-qat likelihood,Answer 4 gemma3:4b-it-qat likelihood,Answer 5 gemma3:4b-it-qat likelihood,Answer 6 gemma3:4b-it-qat likelihood,Answer 7 gemma3:4b-it-qat likelihood,Answer 8 gemma3:4b-it-qat likelihood,Answer 9 gemma3:4b-it-qat likelihood,none gemma3:4b-it-qat likelihood,error gemma3:4b-it-qat likelihood
+1. Name something that causes people to change seats at the movies.,Want better view,41,Noisy neighbors,30,Tall person in front,18,Dirty/sticky seat,6.0,Affectionate couple,4.0,,,,,,,,,0,24,10,6,1,0,0,0,0,59,0,0,19,0,69,0,0,0,0,0,12,0
+Name something kids are taught about Abe Lincoln.,16th President,56,Honest,23,Tall,7,Abolitionist,6.0,Beard,5.0,,,,,,,,,0,52,3,36,1,0,0,0,0,8,0,0,0,0,100,0,0,0,0,0,0,0
+What do people eat in the hospital?,Jell-O,46,Soup,28,Ice cream,12,Pudding,8.0,Apple sauce,6.0,,,,,,,,,0,87,0,0,0,0,0,0,0,13,0,0,68,9,0,0,0,0,0,0,23,0
+Which North Pole resident is most likely to become jealous of Santa's power?,Elf,45,Jack Frost,31,Rudolph,14,Mrs. Claus,8.0,,,,,,,,,,,44,0,37,11,0,0,0,0,0,8,0,94,0,0,0,0,0,0,0,0,6,0
+Where do you like to go barefoot?,Beach,43,Park,30,Shower,16,Bed,8.0,,,,,,,,,,,100,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0
+Name a US city with very aggressive drivers.,New York,54,Los Angeles,22,Chicago,19,Boston,3.0,,,,,,,,,,,23,45,22,1,0,0,0,0,0,9,0,15,59,8,0,0,0,0,0,0,18,0
+Name a public place where it is ok to yell.,Park,46,Concert,19,Sports event,17,Amusement park,5.0,,,,,,,,,,,9,13,68,1,0,0,0,0,0,9,0,81,0,19,0,0,0,0,0,0,0,0
+Name a crime that some people probably commit every day.,Speeding,62,Jaywalking,18,Littering,18,,,,,,,,,,,,,39,1,20,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,100,0
+Name a game that would be inappropriate at a company party.,Spin the Bottle,41,Strip poker,32,Twister,11,Truth or dare,11.0,Beer pong,3.0,,,,,,,,,0,21,0,7,42,0,0,0,0,30,0,0,0,2,97,0,0,0,0,0,1,0
+Name something tourists point up at.,Tall buildings,68,Statues/monuments,14,Mountains,6,,,,,,,,,,,,,21,48,30,0,0,0,0,0,0,1,0,39,61,0,0,0,0,0,0,0,0,0
+"If a football player loses his cup, what might he put down his pants instead?",Socks,21,Towel,13,His hand,11,Shoulder/knee pad,10.0,Bowl,7.0,Padded bra,5.0,Toilet paper,5.0,Coconut/shell,4.0,,,49,7,14,3,5,2,3,0,0,17,0,89,1,4,0,2,0,0,0,0,4,0
+Name something that could be made of gold in a billionaire's bathroom.,Toilet/seat,44,Faucet/sink,34,Shower/tub,16,Toilet paper/holder,3.0,Razor,2.0,,,,,,,,,100,0,0,0,0,0,0,0,0,0,0,8,85,0,1,0,0,0,0,0,6,0
+"If a wedding took place in a deli, what might the guests throw instead of rice?",Bread/bagels,27,Meat/ham,25,Cheese,15,Seeds/rye/poppy,13.0,Lettuce,9.0,Pasta,9.0,,,,,,,23,12,17,19,6,7,0,0,0,16,0,42,2,26,5,0,17,0,0,0,8,0
+"Name something that follows the word ""shark.""",Tank,35,Attack,31,Bait,23,Tale/tail,4.0,Week,4.0,,,,,,,,,25,9,1,3,2,0,0,0,0,60,0,0,0,0,100,0,0,0,0,0,0,0
+A song might be a hit. Name something else that might be a hit.,Movie,44,TV show,21,Play,9,Dance,9.0,Book,8.0,Baseball/sport,6.0,,,,,,,78,0,0,1,20,0,0,0,0,1,0,100,0,0,0,0,0,0,0,0,0,0
+Name something you don't want people to ask you for.,Money/donations,91,Age,3,Weight,2,Advice,2.0,,,,,,,,,,,3,0,0,35,0,0,0,0,0,62,0,0,3,0,23,0,0,0,0,0,74,0
+Name a kind of dog you'd be surprised to see a chihuahua pick a fight with.,Pit bull,42,Great Dane,20,German Shepherd,14,Doberman,7.0,Rottweiler,7.0,Saint Bernard,7.0,,,,,,,22,41,12,0,18,0,0,0,0,7,0,0,100,0,0,0,0,0,0,0,0,0
+"Tell me someone who might use the phrase ""Put your hands in the air.""",Cop,63,Rapper/singer/DJ,23,Robber,9,Gym instructor,3.0,,,,,,,,,,,0,55,0,33,0,0,0,0,0,12,0,0,10,0,90,0,0,0,0,0,0,0
+Name something that some people refrigerate and some people don't.,Ketchup,40,Bread,25,Fruit,19,Peanut butter,14.0,,,,,,,,,,,6,30,8,1,0,0,0,0,0,55,0,0,13,17,1,0,0,0,0,0,69,0
+"Name something a pig might be asking for when it says ""oink oink.""",Food,87,Drink/water,8,Love,2,Bath,2.0,,,,,,,,,,,97,3,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0
+Name an occupation in which you trust a woman more than a man.,Nurse,20,Doctor/Dentist,19,Beautician/Hair,9,Nanny/Day care,7.0,Teacher,6.0,Politician,5.0,Massage therapist,4.0,,,,,56,9,0,0,24,0,11,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0
+Name a famous man whose money is a 10 but whose looks are barely a 5.,Elon Musk,25,Donald Trump,25,Bill Gates,17,Jeff Bezos,4.0,Mark Zuckerberg,3.0,Steve Harvey,3.0,,,,,,,6,23,22,4,2,6,0,0,0,37,0,63,0,19,18,0,0,0,0,0,0,0
+Name a house you never want to be in.,Haunted House,27,Jail/Big House,11,Doghouse,8,Drug House,7.0,Small House,7.0,Glass House,6.0,Cat House,5.0,Outhouse,5.0,,,89,0,2,1,0,0,0,0,0,8,0,100,0,0,0,0,0,0,0,0,0,0
+"When you enter a bathroom, what color do you really hope NOT to see in the toilet bowl?",Brown,61,Yellow,11,Red,10,Green,10.0,Black,2.0,Pink,1.0,,,,,,,57,1,8,23,5,0,0,0,0,6,0,89,9,0,0,0,2,0,0,0,0,0
+I'm getting really tired of my wife's (blank.),Nagging/voice,32,Cooking,17,Attitude,17,Spending,13.0,Family,5.0,Snoring,5.0,No sex policy,4.0,,,,,35,3,38,2,1,1,0,0,0,20,0,47,0,12,0,0,0,0,0,0,41,0
+Name something you find in a breakfast buffet.,Eggs,25,Bacon,24,Sausage,19,Potatoes/Hash Browns,12.0,Juice,7.0,Coffee,6.0,Melon,2.0,Cereal,2.0,,,18,60,1,0,5,6,1,9,0,0,0,3,0,0,0,0,0,0,97,0,0,0
+Name a professional sport where the players make a lot of money.,Football,29,Baseball,27,Basketball,24,Soccer,7.0,Tennis,7.0,Darts,2.0,,,,,,,34,3,60,2,1,0,0,0,0,0,0,59,0,41,0,0,0,0,0,0,0,0
+"If there was a store that only sold husbands, most people would try to buy one with a what?",Job,24,Personality/Humor,15,Warranty/Guarantee,14,Heart/Character,12.0,Bank account,10.0,Body/Butt,9.0,Head of hair,3.0,Brain,2.0,,,6,38,4,15,9,2,3,0,0,23,0,5,47,0,0,0,0,0,0,0,48,0
+Name something you'd do if the person sitting next to you on an airplane had body odor.,Change seats,39,Cover nose/Wear a mask,24,Turn head,6,Endure/Enjoy it,6.0,Spray perfume,6.0,"“You reek, yo”",3.0,Sleep,3.0,Hang out in the bathroom,3.0,,,58,6,0,12,1,0,4,0,0,19,0,0,5,0,0,0,0,0,2,0,93,0
+Name something a funeral director would hate to discover about the body they’re about to bury.,That it's alive,60,That it's the wrong person,18,That is reeks,6,That it's missing,5.0,That is has something contagious,3.0,,,,,,,,,9,3,2,1,33,0,0,0,0,52,0,100,0,0,0,0,0,0,0,0,0,0
+"If you live to be 100, what do you think you’ll be doing on Saturday night?",Sleeping,37,Watching TV,28,Having sex,5,Dancing,4.0,Drinking,4.0,Eating,3.0,Gambling,3.0,,,,,7,57,1,12,5,2,0,0,0,16,0,23,18,0,0,0,59,0,0,0,0,0
+Name something that might be a day old.,Food,71,A baby,16,Animal/insect,8,News,3.0,,,,,,,,,,,47,32,6,5,0,0,0,0,0,10,0,100,0,0,0,0,0,0,0,0,0,0
+Name something a wife turns on just to annoy her husband.,TV,50,Radio,23,Vacuum,13,The lights,4.0,,,,,,,,,,,34,15,15,0,0,0,0,0,0,36,0,1,30,0,0,0,0,0,0,0,69,0
+Name something that thrill seekers love to ride on.,Rollercoaster,77,Motorcycle,8,Hang glider,3,Zip line,3.0,,,,,,,,,,,98,0,1,0,0,0,0,0,0,1,0,100,0,0,0,0,0,0,0,0,0,0
+Name something people try to squeeze into.,Tight clothes/shoes,84,Parking spot,3,Crowded bus,2,Dining booth,2.0,,,,,,,,,,,48,11,0,0,0,0,0,0,0,41,0,36,15,0,0,0,0,0,0,0,49,0
+Name a question that mothers love to ask their grown sons.,Met Ms./Mr. Right?,36,Having kids?,20,Eating enough?,15,Love/miss me?,6.0,How are you?,6.0,Are you making money?,4.0,Are you cleaning?,4.0,Are you having sex?,4.0,,,4,0,0,2,71,1,0,19,0,3,0,0,0,0,0,100,0,0,0,0,0,0
+Name something you shouldn’t be holding while you’re driving.,Phone,59,Food or drink,12,Alcoholic beverage,12,Crying baby,11.0,Cigarette,2.0,Murder weapon,2.0,,,,,,,100,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0
+Name a musical instrument people strum.,Guitar,69,Banjo,21,Ukulele,4,Harp,2.0,,,,,,,,,,,100,0,0,0,0,0,0,0,0,0,0,93,0,7,0,0,0,0,0,0,0,0
+Name a profession that involves getting wet.,Diver/swimmer,50,Lifeguard,27,Firefighter,9,Plumber,5.0,,,,,,,,,,,77,21,1,1,0,0,0,0,0,0,0,82,18,0,0,0,0,0,0,0,0,0
+Name a place that always has a long bathroom line.,Sports venue,28,Concert,27,Bar/club,15,Movie,8.0,Theme park/fair,6.0,Restaurant,5.0,Every ladies' room,4.0,,,,,15,1,3,0,2,39,10,0,0,30,0,0,0,0,0,87,0,13,0,0,0,0
+What is a common fear that many people have?,Heights,50,Spiders,25,Public speaking,15,Flying,10.0,,,,,,,,,,,3,34,35,0,0,0,0,0,0,28,0,7,0,9,0,0,0,0,0,0,84,0
+What is a common item people forget to take with them when leaving the house?,Keys,50,Phone,25,Wallet,15,Sunglasses,10.0,,,,,,,,,,,34,21,45,0,0,0,0,0,0,0,0,17,83,0,0,0,0,0,0,0,0,0
+Name a household chore that nobody likes to do.,Cleaning the bathroom,45,Washing dishes,25,Vacuuming,20,Doing laundry,10.0,,,,,,,,,,,86,6,4,4,0,0,0,0,0,0,0,14,67,0,19,0,0,0,0,0,0,0
+What is a popular pizza topping?,Pepperoni,50,Mushrooms,20,Sausage,15,Green peppers,15.0,,,,,,,,,,,75,8,17,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0
+Name something people do when they are bored.,Watch TV,40,Play video games,30,Read a book,15,Take a nap,15.0,,,,,,,,,,,78,10,5,0,0,0,0,0,0,7,0,56,38,0,0,0,0,0,0,0,6,0
+"Name an occupation that begins with the letter ""J.""",Janitor,62,Judge/Justice,19,Jeweler,5,Jockey,4.0,Journalist,4.0,Juggler,3.0,,,,,,,0,0,0,0,100,0,0,0,0,0,0,0,0,9,0,91,0,0,0,0,0,0
+Name something that might be brewing.,Coffee,37,Beer,28,Tea,17,Trouble,8.0,A Storm,5.0,A Plot,3.0,,,,,,,95,1,4,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0
+"Name the most useful body part that begins with the letter ""L.""",Legs,77,Lips,12,Lungs,6,Liver,4.0,,,,,,,,,,,9,3,45,31,0,0,0,0,0,12,0,61,0,0,39,0,0,0,0,0,0,0
+Name something an athlete might break.,Bone/Body Part,80,A Record,16,Bat/Equipment,2,Rules/The Law,2.0,,,,,,,,,,,46,0,1,0,0,0,0,0,0,53,0,100,0,0,0,0,0,0,0,0,0,0
+Name something associated with vampires.,Twilight,33,Blood/Bloodsucker,29,Garlic,9,Bat,7.0,Cape,7.0,Dracula,5.0,Fangs,4.0,Halloween,4.0,,,0,5,0,0,0,4,89,0,0,2,0,0,100,0,0,0,0,0,0,0,0,0
+Name something in a bakery a baker might call his wife.,Honey/Buns,32,His Oven,9,Sweet/Sweetie,9,Cupcake,8.0,Muffin,7.0,Sugar,5.0,Donut,5.0,Doughy,4.0,,,3,0,12,10,8,9,0,11,0,47,0,0,0,86,0,0,0,0,14,0,0,0
+Name something in a person’s closet that only comes out on special occasions.,Suit/Tux,35,Dress,26,Jewelry,10,Dress Shoes,6.0,Shotgun,4.0,,,,,,,,,22,78,0,0,0,0,0,0,0,0,0,27,67,0,6,0,0,0,0,0,0,0
+Name something you might see a commercial for during a baseball game.,Car/Truck,28,Baseball Equipment/Jerseys,26,Baseball Games/Tickets,25,Restaurants,9.0,Medication,6.0,Beer,4.0,,,,,,,1,1,0,1,0,91,0,0,0,6,0,43,3,0,8,0,34,0,0,0,12,0
+"If your dog ran away, name something you'd be surprised he took with him.",The Cat,23,Leash/Collar,17,Food/Bowl,16,His Bone,9.0,Clothes/Shoe,6.0,Bed/Pillow,6.0,Favorite Toy,4.0,Wallet/Money,4.0,,,4,8,0,16,42,11,4,3,0,12,0,0,0,0,0,1,0,73,0,0,26,0
+Name an occasion where parents force their kids to wear a certain outfit.,Wedding,26,Easter,23,Halloween,20,Church,15.0,Christmas,4.0,School Picture Day,4.0,,,,,,,46,0,39,0,2,11,0,0,0,2,0,51,0,0,1,43,5,0,0,0,0,0
+Name a reason that someone might ride their bike to work.,No car,46,Exercise,23,Save gas,20,Environment,7.0,,,,,,,,,,,0,5,0,90,0,0,0,0,0,5,0,0,100,0,0,0,0,0,0,0,0,0
+Name qualities of a bad boss.,Micromanager,29,Incompetent,24,Angry,20,Irresponsible,14.0,Oblivious,13.0,,,,,,,,,68,9,18,2,0,0,0,0,0,3,0,68,8,0,24,0,0,0,0,0,0,0
+Name a food dogs love just as much as humans do.,Steak,48,Chicken,14,Bread,13,Hamburger,13.0,Cheese,8.0,,,,,,,,,5,0,13,49,0,0,0,0,0,33,0,80,9,0,11,0,0,0,0,0,0,0
+"Name something that shakes, rattles, and rolls.",An Old Car,31,A Rattle/Toy,29,A Rattlesnake,15,Music/Singers,8.0,Dancing Bod/Booty,4.0,Dice,4.0,,,,,,,1,28,2,4,2,59,0,0,0,4,0,0,35,16,0,0,49,0,0,0,0,0
+"Other than feet, name something that runs.",Water/Toilet,37,Engine/Car,24,Refrigerator,10,Nose,8.0,Pantyhose,8.0,Clock,3.0,,,,,,,53,20,0,1,0,6,0,0,0,20,0,100,0,0,0,0,0,0,0,0,0,0
+Name a word that rhymes with “election.”,Selection,32,Erection,23,Perfection,6,Detection,6.0,Protection,5.0,Rejection,4.0,Collection,4.0,Section,4.0,,,90,0,2,1,2,3,1,0,0,1,0,0,13,11,4,0,0,0,72,0,0,0
+Name something with teeth.,Animals,66,People,19,A Comb,8,A Zipper,4.0,A Saw,2.0,,,,,,,,,47,0,1,0,34,0,0,0,0,18,0,90,0,10,0,0,0,0,0,0,0,0
+Name something you would ask the Wizard for in the Land of Oz.,Money,37,Health/A New Heart,17,A Brain,7,Hot Bod,5.0,Peace on Earth,4.0,Love,4.0,Happiness,4.0,Magic Power/To Fly,4.0,,,0,1,5,0,0,3,0,21,0,70,0,22,1,0,0,0,40,1,10,0,26,0
+Name something people might only do once a week.,Laundry,27,Grocery shop,25,Exercise,21,Go to church,15.0,Mow the yard,12.0,,,,,,,,,12,41,3,12,4,0,0,0,0,28,0,0,100,0,0,0,0,0,0,0,0,0
+Name something you keep in your car.,Money/Coins,19,Food/Water,18,First Aid Kit,18,Spare Tire,15.0,Map,7.0,Jumper Cables,7.0,Spare Clothes/Shoes,5.0,Gas Can,2.0,Flare,2.0,0,0,9,63,0,28,0,0,0,0,0,0,0,83,0,0,0,0,5,0,12,0
+Name something a husband might find all over the bed that makes him suspect his wife is having an affair with a baker.,Flour,70,Baked goods/crumbs,10,Sugar,10,Icing/frosting,5.0,Dough,2.0,Yeast,2.0,,,,,,,32,52,1,9,4,0,0,0,0,2,0,3,1,4,25,67,0,0,0,0,0,0
+Name another word people say for “rear end.”,Butt/Buttocks,54,Arse,18,Backside,6,Derriere,4.0,Bottom,3.0,Heine,3.0,,,,,,,9,0,91,0,0,0,0,0,0,0,0,72,0,28,0,0,0,0,0,0,0,0
+Name an activity that's easier to do when it's windy.,Fly a Kite,89,Sail,7,Surf,2,Air Dry Clothes,2.0,,,,,,,,,,,99,1,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0
+Name a food that you might lick.,Ice cream,40,Lollipop,25,Stamp,16,Popsicle,11.0,Envelope,8.0,,,,,,,,,94,6,0,0,0,0,0,0,0,0,0,4,12,0,19,0,0,0,0,0,65,0
+Name something people deliver for a living.,Mail,28,Newspapers,33,Pizza,20,Flowers,6.0,Packages,3.0,Furniture,2.0,Babies,2.0,,,,,36,0,0,0,60,1,0,0,0,3,0,0,0,0,0,100,0,0,0,0,0,0
+Name something you'd do in front of a mirror.,Brush teeth,26,Brush hair,23,Pop a pimple/zit,19,Check your outfit,17.0,Practice dance moves,15.0,,,,,,,,,0,3,3,14,76,0,0,0,0,4,0,14,5,0,77,4,0,0,0,0,0,0
+Name something people tend to fall out of.,Tree,36,Love,25,Bed,21,Chair,12.0,Car,6.0,,,,,,,,,1,71,2,7,4,0,0,0,0,15,0,0,30,3,0,0,0,0,0,0,67,0
+Name a reason to celebrate a party.,Graduation,32,Wedding,26,Holiday Party,20,Bar Mitzvah,14.0,Bachelor/Bachelorette,8.0,,,,,,,,,30,23,20,0,1,0,0,0,0,26,0,13,20,66,0,0,0,0,0,0,1,0
+What's the most fun thing to do with another woman?,Shop,46,Yak/gossip,31,Dine out,6,Drink cocktails,5.0,Laugh,4.0,Make out,3.0,,,,,,,45,0,13,2,19,10,0,0,0,11,0,0,0,0,0,43,28,0,0,0,29,0
+Name something you might eat with crackers.,Soup,28,Cheese,24,Peanut Butter,21,Chili,16.0,Sliced meats,11.0,,,,,,,,,2,94,0,0,2,0,0,0,0,2,0,0,100,0,0,0,0,0,0,0,0,0
+Name something you might do at night.,Read a book,26,Play on your phone,23,Play a board game,20,Play a videogame,17.0,Meditate,14.0,,,,,,,,,0,0,0,94,1,0,0,0,0,5,0,100,0,0,0,0,0,0,0,0,0,0
+Name hot things.,Fire,26,Coffee,24,Tea,21,Stove,16.0,Fireplace,13.0,,,,,,,,,95,0,2,0,3,0,0,0,0,0,0,27,0,73,0,0,0,0,0,0,0,0
+"If a man ran out of deodorant, name a fruit he might rub under his pits to hide the odor.",Orange,38,Lemon,35,Apple,7,Pineapple,7.0,Banana,3.0,Strawberry,2.0,Lime,2.0,,,,,0,6,10,26,43,2,0,0,0,13,0,0,0,4,0,96,0,0,0,0,0,0
+Name a gift to surprise a person you know.,New car,30,Clothes,25,Gift card,20,Money,14.0,Jewelry,11.0,,,,,,,,,0,0,0,0,35,0,0,0,0,65,0,0,0,2,65,7,0,0,0,0,26,0
+Name things you would post on social media.,Selfie,31,Vacation pictures,24,Pictures of friends,19,Your meal,15.0,Your coffee,11.0,,,,,,,,,20,48,16,0,0,0,0,0,0,16,0,0,76,1,0,0,0,0,0,0,23,0
+"Name an animal that starts with the letter ""E.""",Elephant,85,Eagle,7,Eel,3,Emu,3.0,,,,,,,,,,,90,10,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0
+Give me one word you'd use to describe the last kiss your man gave you.,Warm,27,Sloppy,25,Wet,21,Quick,14.0,Sweet,5.0,Perfect,4.0,Happy,2.0,,,,,11,0,22,2,27,0,32,0,0,6,0,70,0,21,0,0,0,0,0,0,9,0
+"Name a word that rhymes with ""teeny.""",Weenie,71,Beanie,15,Meanie,12,Genie,2.0,,,,,,,,,,,26,5,21,0,0,0,0,0,0,48,0,0,0,28,2,0,0,0,0,0,70,0
+"Name something you do that rhymes with ""grow up.""",Throw up,74,Show up,16,Blow up,8,Slow up,2.0,,,,,,,,,,,3,7,14,13,0,0,0,0,0,63,0,0,10,83,6,0,0,0,0,0,1,0
+Name something that's easier to catch than catching a man.,Cold/flu,58,Fish,26,Bus,11,Frisbee,3.0,,,,,,,,,,,94,0,0,6,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0
+Name something that might come out of your nose when you laugh.,Snot,48,Milk,32,Water,5,Soda,4.0,Breath,3.0,,,,,,,,,76,0,8,0,14,0,0,0,0,2,0,21,0,17,0,62,0,0,0,0,0,0
+Name something to which a lot of kids seem almost addicted.,Computer/games,41,Candy/junk food,29,Television,20,Music,5.0,,,,,,,,,,,62,0,27,5,0,0,0,0,0,6,0,100,0,0,0,0,0,0,0,0,0,0
+Name something people ride that causes them to throw up.,Roller coaster,56,Boat/ship,13,Car,10,Ferris wheel,9.0,,,,,,,,,,,95,0,0,0,0,0,0,0,0,5,0,100,0,0,0,0,0,0,0,0,0,0
+Fill in the blank: I did everything for my guy and I never got a ____.,Thank-you,74,Nickel/dime,10,Ring/diamond,9,Kiss,4.0,,,,,,,,,,,56,3,0,3,0,0,0,0,0,38,0,60,0,0,0,0,0,0,0,0,40,0
+Name a soda that people like to drink.,Coca Cola,39,Diet Coke,29,Pepsi,14,Dr. Pepper,11.0,Mountain Dew,7.0,,,,,,,,,100,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0
+Name something that drips.,Water/faucet,92,A nose,4,A candle,2,Coffee,2.0,,,,,,,,,,,74,1,16,0,0,0,0,0,0,9,0,97,0,0,3,0,0,0,0,0,0,0
+Name something kids just love to jump on.,Bed,71,Trampoline,20,Couch,5,Pile of leaves,3.0,,,,,,,,,,,0,100,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0
+"Give me a three-letter word that starts with the letter ""Z.""",Zoo,40,Zip,18,Zap,15,Zen,13.0,Zit,13.0,,,,,,,,,3,28,0,49,19,0,0,0,0,1,0,71,1,0,0,0,0,0,0,0,28,0
+Name an occasion for which you might wear lucky underwear.,Hot Date,30,Job Interview,16,Casino/Gambling,11,Sporting Event,9.0,Wedding/Night,7.0,Anniversary,5.0,Valentine’s Day,4.0,Exam/Finals,4.0,,,0,0,0,85,9,0,3,0,0,3,0,0,0,69,29,0,0,0,2,0,0,0
+Name something you'd do if your date took you to Chuck E. Cheese.,Play games,29,Leave/walk out,28,Eat lots of pizza,15,Dump him,15.0,Laugh,12.0,,,,,,,,,4,0,1,0,89,0,0,0,0,6,0,100,0,0,0,0,0,0,0,0,0,0
+Name a place where people tend to lose their keys.,Home,55,Shopping mall,17,Purse,10,Car,7.0,Bar,6.0,Beach,5.0,,,,,,,44,0,25,4,3,3,0,0,0,21,0,59,0,25,2,5,0,0,0,0,9,0
+Name something a cowboy might ride if he lost his horse.,Donkey/mule,42,Bull/cow,31,Motorcycle,11,Truck/car,8.0,Train,4.0,Another horse,2.0,,,,,,,96,1,2,0,0,1,0,0,0,0,0,99,1,0,0,0,0,0,0,0,0,0
+Name ways to get rich quickly.,Invest,28,Save money,24,Buy bitcoin,20,Gamble,15.0,Get a job,13.0,,,,,,,,,2,0,0,16,6,0,0,0,0,76,0,0,0,0,94,0,0,0,0,0,6,0
+Name a food that is commonly deep-fried.,Chicken,61,Potatoes/fries,23,Seafood,11,Eggplant,2.0,,,,,,,,,,,27,73,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0
+Name a reason people might give for running late to work,Overslept,52,Traffic,25,Car problems,17,Illness,6.0,,,,,,,,,,,0,100,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0
+Name the worst thing to forget to pack when you go on vacation.,Toiletries,29,Clothes/shoes,28,Money/credit card,20,Medication,9.0,Camera,6.0,,,,,,,,,15,2,4,40,6,0,0,0,0,33,0,94,0,0,0,0,0,0,0,0,6,0
+Name something that gets pumped up.,Tire,48,Balloon,13,Ball,10,Muscles,8.0,,,,,,,,,,,6,6,8,34,0,0,0,0,0,46,0,100,0,0,0,0,0,0,0,0,0,0
+Name a weather condition that would be a good name for a wrestler.,Tornado,19,Stormy/storm,18,Thunder/thunderstorm,16,Hurricane,12.0,Tsunami,6.0,,,,,,,,,0,7,87,6,0,0,0,0,0,0,0,0,0,95,5,0,0,0,0,0,0,0
+"Name a word that rhymes with ""will"" that's associated with doctors.",Bill,63,Pill,22,Kill,10,Chill,3.0,Ill,2.0,,,,,,,,,25,10,6,30,5,0,0,0,0,24,0,0,0,100,0,0,0,0,0,0,0,0
+Name a place that's filled with people who don't want to be there.,Jail/prison,36,Hell,10,Work/meetings,10,Cemetery,8.0,Church,8.0,,,,,,,,,24,3,10,5,7,0,0,0,0,51,0,44,0,0,0,0,0,0,0,0,56,0
+Fill in the blank: You're in deep ____.,Doo-doo,53,Trouble,22,Water,21,Sleep,4.0,,,,,,,,,,,0,38,62,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0
+Name something specific you make sure to clean before company comes over.,Bathroom,59,Kitchen,18,Carpet/floor,11,Living room,3.0,Myself,3.0,,,,,,,,,83,12,3,0,0,0,0,0,0,2,0,28,51,0,0,0,0,0,0,0,21,0
+Name a movie monster you think could take Dracula in a fight.,Godzilla,43,Frankenstein,26,King Kong,13,Wolfman/werewolf,10.0,Freddy Krueger,5.0,Jason,2.0,,,,,,,60,5,27,3,2,0,0,0,0,3,0,63,17,0,0,8,0,0,0,0,12,0
+Name an office supply you'd use to pick food out of your teeth.,Paper clip,53,Paper/envelope,12,Pen/pencil,9,Staple,9.0,Letter opener,8.0,Tack/pin,6.0,,,,,,,0,0,28,0,0,11,0,0,0,61,0,0,0,100,0,0,0,0,0,0,0,0
+Name something in your refrigerator that you should thank a cow for.,Milk,68,Cheese,19,Steak/hamburger,8,Butter,4.0,,,,,,,,,,,68,28,0,4,0,0,0,0,0,0,0,12,88,0,0,0,0,0,0,0,0,0
+Name something people say is on the house.,Drink,88,Dessert/meal,3,Address,2,Chimney,2.0,Roof,2.0,,,,,,,,,31,17,0,0,6,0,0,0,0,46,0,40,26,0,0,0,0,0,0,0,34,0
+Which of the Seven Dwarfs describes how you feel after a couple of drinks?,Happy,56,Dopey,25,Sleepy,10,Bashful,5.0,Grumpy,3.0,,,,,,,,,9,5,6,0,69,0,0,0,0,11,0,0,54,3,0,41,0,0,0,0,2,0
+Fill in the blank: Hold the ____.,Phone,26,Door,14,Mayo,10,Elevator,9.0,Line,6.0,,,,,,,,,29,33,0,0,6,0,0,0,0,32,0,1,0,0,0,17,0,0,0,0,82,0
+Name your favorite thing to do at parties.,Dance,45,Socialize/talk,21,Drink,18,Eat,8.0,Sing/karaoke,6.0,,,,,,,,,68,30,0,2,0,0,0,0,0,0,0,46,0,0,54,0,0,0,0,0,0,0
+"Fill in the blank: In the bedroom, my husband's superhero name would be ____ Man.",Iron Man,25,Superman,24,Minuteman,14,Macho Man,11.0,Batman,11.0,Spider-Man,2.0,,,,,,,7,32,1,4,8,3,0,0,0,45,0,3,0,0,97,0,0,0,0,0,0,0
+Name something that might be referred to as a dead end.,A street/road,47,A job,28,A relationship,14,An argument,5.0,A lead/info,2.0,Hair,2.0,,,,,,,87,2,0,0,0,0,0,0,0,11,0,95,0,0,0,0,0,0,0,0,5,0
+"If Batman went broke, he just might have to sell his Bat-what?",Batmobile,81,Batcave,9,Batcopter,2,Batcycle,2.0,Batplane,2.0,,,,,,,,,18,62,4,2,3,0,0,0,0,11,0,100,0,0,0,0,0,0,0,0,0,0
+Roses are red. Violets are blue. What kind of flowers do cheap guys buy you?,Daisies,39,Carnations,38,None/invisible,9,Tulips,6.0,Dandelions,3.0,Plastic/fake,3.0,,,,,,,38,38,0,21,0,0,0,0,0,3,0,19,1,0,0,6,74,0,0,0,0,0
+Name someplace a teenager complains about having to go.,School/college,56,Church,26,Family function,9,Dentist/doctor,4.0,Grocery store,2.0,Work,2.0,,,,,,,92,0,3,2,0,3,0,0,0,0,0,1,0,28,71,0,0,0,0,0,0,0
+Name a way eggs are prepared that could also describe a person.,Scrambled,53,Hard-boiled,13,Over easy,12,Fried,11.0,Sunny-side up,7.0,Eggs Benedict,2.0,,,,,,,53,31,0,10,0,0,0,0,0,6,0,100,0,0,0,0,0,0,0,0,0,0
+Name something specific that has a long neck.,Giraffe,78,Ostrich,10,Bottle/beer bottle,4,Crane,3.0,Swan,3.0,A glass,2.0,,,,,,,21,0,0,0,79,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0
+What's something that can turn an ordinary bath into a romantic one?,Candles,39,Bubbles,34,Rose petals,9,Another person,7.0,Music,3.0,Alcohol,3.0,Bath oil,3.0,,,,,99,1,0,0,0,0,0,0,0,0,0,23,77,0,0,0,0,0,0,0,0,0
+Name something that some people are afraid to ride on or in.,Airplane,44,Motorcycle,21,Roller coaster,16,Boat,4.0,Horse,4.0,Elevator,3.0,,,,,,,3,2,55,3,4,23,0,0,0,10,0,0,0,100,0,0,0,0,0,0,0,0
+Fill in the blank: Tongue ______.,Tongue-tied,33,Tongue-in-cheek,23,Tongue twister,10,Tongue lashing,8.0,Tongue depressor,7.0,Tongue kiss,4.0,,,,,,,32,5,39,3,0,2,0,0,0,19,0,0,0,0,0,0,100,0,0,0,0,0
+"Name something that has the word ""super"" in it.",Superman,47,Super Bowl,9,Supermarket,9,Super glue,6.0,Superintendent,6.0,Supersize,5.0,Superstar,5.0,,,,,100,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0
+Fill in the blank: Lady _____.,Lady Gaga,27,Lady Luck,24,Lady Godiva,18,Ladybug,13.0,Lady-killer,4.0,Lady parts,3.0,,,,,,,57,0,0,0,0,0,0,0,0,43,0,0,0,91,0,6,0,0,0,0,3,0
+Name something that comes in packs of six or 12.,Soda,36,Beer,35,Eggs,9,Hot dogs,4.0,Donuts,3.0,Gum,3.0,Toilet tissue,3.0,,,,,8,8,29,1,11,5,2,0,0,36,0,1,13,55,0,0,24,0,0,0,7,0
+Name a US city where lots of rich people live.,LA/Beverly Hills,48,New York,21,Miami,9,Las Vegas,8.0,Palm Beach,4.0,Philadelphia,4.0,San Francisco,4.0,,,,,50,15,4,1,28,0,1,0,0,1,0,44,54,0,2,0,0,0,0,0,0,0
+Name a way your man is like a good cut of meat.,Lean,24,Tender,19,Beefy,11,Juicy,10.0,Prime,7.0,Rare,6.0,Well-done,5.0,,,,,7,20,1,51,0,4,3,0,0,14,0,0,100,0,0,0,0,0,0,0,0,0
+"After you murder someone, name something specific you must quickly get rid of.",The weapon,58,The body,27,Blood,6,Fingerprints,5.0,My clothes/shoes,4.0,,,,,,,,,12,11,56,20,0,0,0,0,0,1,0,100,0,0,0,0,0,0,0,0,0,0
+"Fill in the blank: Having a bird poop on you is bad, but imagine how much worse it would be if ______ could fly.",Elephants,29,Cows,22,Pigs,21,Horses,12.0,Dogs,7.0,Humans,3.0,Rats,2.0,,,,,0,0,2,12,7,24,2,0,0,53,0,96,0,0,0,0,0,0,0,0,4,0
+Name a good place to go when you want to cry.,Bed/bedroom,46,Shower/bathroom,27,Movie/theater,9,A friend's,3.0,My car,4.0,The woods,2.0,In a closet,2.0,,,,,3,11,12,0,1,35,0,0,0,38,0,0,0,0,0,0,68,0,0,0,32,0
+"If you ran your fingers through a man's hair, what would you hate to find in it?",Lice/bugs,45,Dandruff,13,Dirt,13,Oil/grease,9.0,Gel,6.0,Extensions,3.0,Food,2.0,,,,,56,2,3,9,2,1,0,0,0,27,0,2,44,18,31,0,0,0,0,0,5,0
+Name a kind of ball it might feel like a woman is pushing out when she gives birth.,Basketball,49,Bowling ball,17,Football,8,Beach ball,7.0,Soccer ball,6.0,Medicine ball,4.0,Softball,2.0,,,,,3,2,1,2,19,20,6,0,0,47,0,0,0,0,100,0,0,0,0,0,0,0
+Name an animal that's easy to imitate in charades.,Monkey/ape,32,Dog,21,Cat,16,Bird,14.0,Elephant,4.0,Kangaroo,4.0,Rabbit,4.0,,,,,82,12,2,2,0,0,0,0,0,2,0,0,0,0,100,0,0,0,0,0,0,0
+Name a kind of hoop.,Hula-Hoop,74,Basketball hoop,18,Earring hoop,4,Embroidery hoop,3.0,,,,,,,,,,,37,58,1,1,0,0,0,0,0,3,0,0,100,0,0,0,0,0,0,0,0,0
+Tell me something you have that has lasted longer than most of your relationships.,Shoes/clothes,17,Jewelry/watch,13,House,10,Car,9.0,Friendships,8.0,Pet,8.0,Children,5.0,Job,4.0,,,0,0,0,0,0,0,0,9,0,91,0,0,0,0,0,0,0,0,0,0,100,0
+Fill in the blank: My man is a love ____.,Machine,42,Bug,14,Muffin,10,Addict,10.0,Hound,8.0,Magnet,4.0,Boat,3.0,,,,,0,1,0,26,2,0,1,0,0,70,0,0,0,0,13,0,0,0,0,0,87,0
+What US state do you think has the most beautiful women?,California,53,Florida,15,Hawaii,12,New York,9.0,Indiana,2.0,New Jersey,2.0,Texas,2.0,Georgia,2.0,,,14,0,0,0,0,0,0,0,0,81,5,100,0,0,0,0,0,0,0,0,0,0
+Name something that's cheap and greasy.,Burger,36,French fries,32,Chicken/wings,7,Oil/grease/lard,7.0,Pizza,5.0,Bacon,4.0,My ex,2.0,Taco,2.0,,,14,60,25,0,1,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0
+Tell me something of yours that you swear is possessed.,Children,16,Car,14,House,10,Pet,10.0,Computer,9.0,Myself,8.0,Cellphone,5.0,Spouse,4.0,,,0,0,0,0,17,15,0,0,0,68,0,0,0,0,0,4,0,0,0,0,96,0
+Tell me a country where you think the men are sexier than American men.,Italy,35,France,15,Australia,12,England,6.0,Spain,6.0,Brazil,4.0,Ireland,4.0,Norway,4.0,,,39,5,0,0,1,13,2,15,0,25,0,12,0,0,0,0,72,0,16,0,0,0
+Name a word a dog understands.,Sit,54,Come,11,Walk,6,Food,6.0,Their name,5.0,Stay,4.0,Fetch,3.0,Treat,2.0,,,2,3,63,0,2,0,0,27,0,3,0,73,0,0,11,0,0,0,16,0,0,0
+"Give me a phrase that starts with the words, ""Off the...""",Off the wall,34,Off the hook,29,Off the cuff,10,Off the record,7.0,Off the chart,6.0,Off the deep end,2.0,Off the rack,2.0,Off the top of your head,2.0,,,0,4,3,0,1,3,0,1,0,88,0,10,0,0,86,4,0,0,0,0,0,0
+Name something you stuff just as full as you can get it.,Turkey,39,Trash cans,14,Christmas stocking,6,Suitcase,6.0,Pillow,6.0,Teddy bear,5.0,Purse,5.0,Stomach,4.0,,,38,4,6,1,9,4,9,6,0,23,0,0,0,0,0,100,0,0,0,0,0,0
+"Give me a word that rhymes with ""hustle.""",Bustle,73,Muscle,15,Rustle,9,Tussle,3.0,,,,,,,,,,,28,6,42,5,0,0,0,0,0,19,0,0,100,0,0,0,0,0,0,0,0,0
+"If a man speaks seven languages, which one would he use when he wants to sound sexy?",French,60,Italian,23,English/Cockney,8,Spanish,3.0,Body language,2.0,,,,,,,,,73,13,0,8,1,0,0,0,0,5,0,100,0,0,0,0,0,0,0,0,0,0
+Name a good musical instrument for someone who is full of hot air.,Tuba,56,Trumpet,17,Trombone,8,Bagpipes,8.0,Saxophone,5.0,Flute,4.0,,,,,,,0,99,1,0,0,0,0,0,0,0,0,0,80,0,1,18,1,0,0,0,0,0
+You know a guy is really into you if he kisses your what?,Forehead/head,30,Cheek,22,Neck,15,Lips,14.0,Hand,11.0,Ears,7.0,,,,,,,0,92,1,6,1,0,0,0,0,0,0,0,12,0,74,14,0,0,0,0,0,0
+What would it be hard to do if you accidentally put on superglue instead of lipstick?,Eat,32,Talk,32,Kiss,25,Breathe,8.0,Take it off,2.0,,,,,,,,,1,0,29,0,9,0,0,0,0,61,0,0,0,0,0,99,0,0,0,0,1,0
+Name an animal that doesn't have a leg to stand on.,Snake,59,Fish/shark/eel,23,Whale,5,Seal/sea lion,4.0,Dolphin/porpoise,3.0,Snail/slug,3.0,Worm,2.0,,,,,1,80,1,6,8,3,1,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+Name an animal that might like to watch the DVD Squirrels Gone Wild.,Dog,39,Cat,21,Squirrel,21,Chipmunk,8.0,Coyote,3.0,Bird/eagle,3.0,Rabbit,2.0,,,,,0,0,77,22,0,1,0,0,0,0,0,8,0,59,0,33,0,0,0,0,0,0
+Name a place you stop going to when you're broke.,Restaurants,32,Store/mall,16,Bar/nightclub,16,Casino,15.0,The movies,8.0,The bank,4.0,Racetrack,3.0,Ball game,2.0,,,22,12,6,0,6,4,1,0,0,49,0,100,0,0,0,0,0,0,0,0,0,0
+Name the first thing Steve Harvey would remove if he were in a game of strip poker.,His tie,42,His shoes,15,His shirt,14,His jacket,9.0,His hat,6.0,His mustache,4.0,His watch,3.0,His pants,2.0,,,6,19,15,3,0,0,9,40,0,8,0,8,2,90,0,0,0,0,0,0,0,0
+Name something a mother might pick out for her adult son.,Clothes,79,A woman/wife,9,Furniture,3,Groceries/food,2.0,,,,,,,,,,,2,37,0,4,0,0,0,0,0,57,0,91,2,0,0,0,0,0,0,0,7,0
+"If they made a Judge Judy doll, name something it might come with.",Gavel/mallet,64,Big mouth/attitude,15,Robe/gown,14,Glasses,2.0,,,,,,,,,,,60,1,6,6,0,0,0,0,0,27,0,97,0,0,3,0,0,0,0,0,0,0
+Name something that parents can't wait for their children to get out of.,The house,36,Diapers,35,School/college,21,Teens/puberty,4.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,100,0,0,0,0,100,0,0,0,0,0,0,0
+"In one word, describe the underwear your man is wearing right now.",Boxers,31,Tighty-whities,23,Briefs,19,,6.0,Torn,5.0,Ugly,5.0,Sexy,3.0,Boring,3.0,,,24,0,24,0,0,0,0,0,0,51,1,16,0,54,0,0,0,0,0,0,30,0
+Name a place you'd hate to find toenail clippings.,My food/plate,48,My bed,36,On floor/in rug,6,Table/counter,5.0,On couch,2.0,,,,,,,,,2,2,11,5,6,0,0,0,0,74,0,0,0,2,0,0,0,0,0,0,98,0
+Name an American city where they know how to party hard.,New Orleans,31,New York,21,Las Vegas,19,Los Angeles,10.0,Miami,4.0,Chicago,4.0,,,,,,,100,0,0,0,0,0,0,0,0,0,0,49,0,42,0,9,0,0,0,0,0,0
+Name something you associate with camels.,Hump,71,Desert,13,Cigarettes,5,Toe/foot,3.0,Water,3.0,Smell/bad breath,2.0,,,,,,,0,100,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0
+"If Steve Harvey were your neighbor, name something of his you might ask to borrow.",Car,24,Suits/clothes,19,$15 million,17,Jokes/humor,7.0,Mower/lawn service,5.0,Sugar,5.0,,,,,,,26,6,0,3,1,1,0,0,0,63,0,0,0,0,3,0,0,0,0,0,97,0
+Name a place you'd hate to spend even one night.,In-laws' home,20,Jail/prison,19,Hospital,12,Office/work,8.0,On the couch,7.0,Campground,7.0,,,,,,,0,5,49,0,0,2,0,0,0,44,0,0,0,93,0,0,0,0,0,0,7,0
+Name something you'd hate to have happen while you're taking a bath.,Phone rings,35,No hot water,24,Doorbell rings,8,Get electrocuted,6.0,Power outage,4.0,Slip/fall,4.0,Someone comes in,4.0,,,,,0,3,0,2,8,31,4,0,0,52,0,0,9,0,0,86,1,0,0,0,4,0
+And name something of your wife's you like to wear because it's so soft.,Her robe,33,Her pajamas,16,Her sweater,15,Her slippers,11.0,Her T-shirt,9.0,Her coat,5.0,Her nightie,3.0,Her scarf,3.0,,,0,0,0,0,0,0,0,0,0,99,1,0,0,22,0,0,0,0,78,0,0,0
